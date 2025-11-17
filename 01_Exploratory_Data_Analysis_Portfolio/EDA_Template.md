@@ -14,7 +14,7 @@
 - Fix data types
 - Remove duplicates
 
-### 4. Exploratory Analysis
+ ### 4. Exploratory Analysis
 - Univariate analysis (histograms, boxplots)
 - Bivariate analysis (correlation heatmap, scatter plots)
 - Categorical vs numerical comparisons (bar plots, violin plots)
@@ -22,7 +22,3 @@
 ### 5. Insights
 - What patterns did you find?
 - Any relationships or surprising trends?
-
-### 6. Conclusion
-- Summarize insights
-- Possible next steps (feature engineering, prediction, etc.)
