@@ -1,0 +1,33 @@
+Age — Patient’s age in years.
+
+Sex — Biological sex (often 0 = female, 1 = male).
+
+ChestPainType — Type of chest pain (e.g., typical angina, atypical, non-anginal, asymptomatic).
+                3: TA (Typical Angina) = biggest chest pain
+                2: ATA (Atypical Angina)
+                1: NAP (Non-Anginal Pain)
+                0: ASY (Asymptomatic)
+
+RestingBP — Resting blood pressure measured in mmHg.
+
+Cholesterol — Serum cholesterol level in mg/dL.
+
+FastingBS — Fasting blood sugar > 120 mg/dL (1 = yes, 0 = no).
+
+RestingECG — Resting electrocardiogram result.
+             0 (Normal): Used as the baseline, healthy, or lowest-risk state.
+             1 (ST): Represents a moderate concern
+             2 (LVH): Represents a significant structural change
+
+MaxHR — Maximum heart rate achieved during exercise.
+
+ExerciseAngina — Exercise-induced angina (1 = yes, 0 = no).
+
+Oldpeak — ST depression induced by exercise relative to rest.
+
+ST_Slope — Slope of the ST segment during peak exercise.
+            0: Low Risk (Up)
+            1: Moderate Risk (Flat)
+            2: Highest Risk (Down)
+
+HeartDisease — Target variable (1 = disease present, 0 = no disease).
