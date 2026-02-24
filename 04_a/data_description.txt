@@ -1,0 +1,88 @@
+url – Link to the individual car listing.
+
+region – The city or metropolitan area where the car is listed.
+
+region_url – URL of the Craigslist regional site for the listing.
+
+price – Asking price of the car (in USD).
+
+year – Model year of the car.
+
+manufacturer – Brand or maker of the car (e.g., Toyota, Ford).
+
+model – Specific model of the car (e.g., Camry, F-150).
+
+condition – Seller’s assessment of the car’s condition 
+            - excellent
+            - good
+            - fair
+            - like new
+            - new    
+            - salvage                 
+
+cylinders – Number of engine cylinders (numeric, e.g., 4, 6, 8).
+
+fuel – Type of fuel used by the car 
+        - gas
+        - other
+        - diesel
+        - electric
+        - hybrid        
+
+odometer – Mileage of the car (in miles).
+
+title_status – Legal status of the car’s title        
+                - clean         
+                - rebuilt         
+                - salvage         
+                - lien            
+                - missing          
+                - parts only       
+
+transmission – Type of gearbox
+                - automatic    
+                - other         
+                - manual         
+
+drive – Drivetrain configuration 
+            - 4wd
+            - fwd
+            - rwd
+
+size – Size classification of the car 
+        - compact 
+        - mid-size 
+        - full-size 
+        - sub-compact
+
+type – Vehicle type
+        - sedan          
+        - SUV            
+        - pickup         
+        - truck          
+        - other          
+        - coupe          
+        - hatchback      
+        - wagon          
+        - van             
+        - convertible     
+        - mini-van        
+        - offroad          
+        - bus              
+        
+
+paint_color – Exterior color of the car.
+
+image_url – URL of the listing’s main image.
+
+description – Text description provided by the seller.
+
+county – County where the car is located.
+
+state – Two-letter U.S. state code (e.g., CA, NY, TX).
+
+lat – Latitude coordinate of the car’s location.
+
+long – Longitude coordinate of the car’s location.
+
+posting_date – Date the listing was posted.
