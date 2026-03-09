@@ -1,0 +1,54 @@
+1.  Age Description: Age of the customer in years.
+
+2.  Gender Description: Gender identity of the customer (e.g., Male,
+    Female).
+
+3.  Marital Status Description: Current marital status of the customer
+    (Single, Married, Divorced, Widowed, Separated).
+
+4.  Education Level Description: Highest completed education level
+    (e.g., Associate Degree, Bachelor’s Degree, Doctorate).
+
+5.  Geographic Information Description: State or region where the
+    customer resides.
+
+6.  Occupation Description: The customer’s primary profession or job
+    role.
+
+7.  Income Level Description: Annual income of the customer (numeric
+    value).
+
+8.  Behavioral Data Description: Internal behavioral segment or customer
+    behavior category used by the company.
+
+9.  Purchase History Description: Date when the customer purchased the
+    policy or product.
+
+10. Interactions with Customer Service Description: The communication
+    channel used by the customer when interacting with customer support
+    (Phone, Chat, Email).
+
+11. Insurance Products Owned Description: Identifier of the insurance
+    policy owned by the customer.
+
+12. Coverage Amount Description: The total coverage value provided by
+    the insurance policy.
+
+13. Premium Amount Description: The periodic payment amount the customer
+    pays for the insurance policy.
+
+14. Policy Type Description: Category of the insurance policy (e.g.,
+    Group, Family).
+
+15. Customer Preferences Description: Customer’s preferred method for
+    receiving communications or offers.
+
+16. Preferred Communication Channel Description: The main channel the
+    customer prefers for communication (Email, Mail, Text, etc.).
+
+17. Preferred Contact Time Description: The time period when the
+    customer prefers to be contacted (Morning, Afternoon, Evening,
+    Weekends, Anytime).
+
+18. Preferred Language Description: The language the customer prefers
+    for communication.
